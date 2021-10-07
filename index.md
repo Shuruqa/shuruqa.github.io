@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/Shuruqa/shuruqa.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Image of Login Page](images/pmss.gif)
+![Image of The Project](images/pms1.gif)
 
 
 ### Markdown
