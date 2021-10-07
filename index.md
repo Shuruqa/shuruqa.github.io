@@ -7,9 +7,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![Image of Login Page](images/pmss.gif)
 
-![Image of The Dashboad ](images/Dashboard.PNG)
-
-![Image of The Projects ](images/Projects.PNG)
 
 ### Markdown
 
