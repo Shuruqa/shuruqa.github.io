@@ -28,7 +28,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-![Image](/shuruqa.github.io/images/Login.PNG)
+![Image]:
+(/shuruqa.github.io/images/Login.PNG)
 
 ### Jekyll Themes
 
